@@ -4,4 +4,4 @@ config/
 __pycache__/
 *.pyc
 desktop.ini
-
+data/
